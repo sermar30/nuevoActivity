@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c04371e7.chunk.css",
+    "main.js": "/static/js/main.d3d6c737.chunk.js",
+    "main.js.map": "/static/js/main.d3d6c737.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.815cd3ae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.815cd3ae.js.map",
+    "static/js/2.48c7ae7e.chunk.js": "/static/js/2.48c7ae7e.chunk.js",
+    "static/js/2.48c7ae7e.chunk.js.map": "/static/js/2.48c7ae7e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c04371e7.chunk.css.map": "/static/css/main.c04371e7.chunk.css.map",
+    "static/js/2.48c7ae7e.chunk.js.LICENSE.txt": "/static/js/2.48c7ae7e.chunk.js.LICENSE.txt",
+    "static/media/logozuma.254a7a0d.png": "/static/media/logozuma.254a7a0d.png",
+    "static/media/mags1.10ced243.jpg": "/static/media/mags1.10ced243.jpg",
+    "static/media/mags2.eb78bc97.jpg": "/static/media/mags2.eb78bc97.jpg",
+    "static/media/mags3.7385e4a2.jpg": "/static/media/mags3.7385e4a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815cd3ae.js",
+    "static/js/2.48c7ae7e.chunk.js",
+    "static/css/main.c04371e7.chunk.css",
+    "static/js/main.d3d6c737.chunk.js"
+  ]
+}
