@@ -1,0 +1,15 @@
+.carrusel-imagen {
+    max-width: 840px;
+    margin: auto;
+}
+
+.texto-mision { 
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 1024px) { 
+    .texto-mision {
+        font-size: 15px;
+    }
+ }
